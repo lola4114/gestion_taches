@@ -1,6 +1,6 @@
 def main():
 
-    print("Version A+B du programme")
+    print("Nouvelle Version B du programme")
 
     print("Version A du programme")
 >>>>>>> origin/main
