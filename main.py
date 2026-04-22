@@ -1,5 +1,5 @@
 def main():
-    print("Bienvenue dans le gestionnaire de tâches")
+    print("Version B du programme")
 
 if __name__ == "__main__":
     main()
