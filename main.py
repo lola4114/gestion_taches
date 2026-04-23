@@ -1,1 +1,3 @@
-print('version A)
+
+print('version A+B)
+
